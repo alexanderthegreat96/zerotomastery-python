@@ -14,6 +14,8 @@ from collections import (
 
 int # holds integers
 float # holds floats / floating pooint numbers / numbers with decimal points
+complex # holds a complex number This is equivalent to (real + imag*1j) where imag defaults to 0.
+bin # not an actual data type, but rather a method that converts a number in binary
 bool # holds either True or FalWse
 str # any string
 list # lists / arrays / ordered collections

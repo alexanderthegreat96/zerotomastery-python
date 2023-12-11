@@ -3,3 +3,5 @@
 .git
 __py_cache__
 __py_cache__/
+.vscode
+.vscode/

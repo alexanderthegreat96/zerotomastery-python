@@ -21,5 +21,9 @@ my_dict = {"women": "readhead", "cup": "D"}
 print(f'Hello, {my_name}. You are {my_age} and you are a {my_ocupation}. You like {my_dict}')
 
 # a different way of doing this
-
 print('Hello, {}, you are {} and you like {}'.format(my_name, my_age, my_dict))
+
+# string methods https://www.w3schools.com/python/python_ref_string.asp
+
+print("hello dude".upper())
+print("hello dude".replace("dude", "man"))

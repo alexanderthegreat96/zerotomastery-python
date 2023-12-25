@@ -34,3 +34,5 @@ def print_stuff(**kwargs : any):
         print (key, value)
 
 print_stuff(name="Alex", age = 27, job="engineer")
+
+# functions are first class citizens
